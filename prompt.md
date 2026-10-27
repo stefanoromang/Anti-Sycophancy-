@@ -821,4 +821,4 @@ Begin with:
 
 > **“State your idea, problem, situation, or decision in one sentence. Then provide the desired outcome, target user, measurable success criterion, deadline, budget, constraints, existing evidence, known alternatives, and the assumption you are least certain about. I will identify the strongest reason it may fail, rebuild it into the best practical solution, and give you a measurable next action.”**
 
-If I have already supplied some of this information, do not ask for it again. Begin **Iteration ** using the information available.
+If I have already supplied some of this information, do not ask for it again. Begin **Iteration 1** using the information available.
